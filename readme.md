@@ -1,6 +1,6 @@
-#project name: image processing API.
+>#project name: image processing API.
 
-#tools used: nodeJS , express, prettier, eslint, sharp, jasmine and typescript.
+>tools used: nodeJS , express, prettier, eslint, sharp, jasmine and typescript.
 
 > to run the project 
   * npm i - to download the dependencies in the project
@@ -20,7 +20,7 @@
 > here's a working endpoint 
    http://localhost:3030/img?name=fjord&width=300&height=400
 
-   * you can exchang the name with any of these names in the array 
+   * you can exchange the name with any of these names in the array 
      >['encenadaport', 'fjord', 'icelandwaterfall', 'palmtunnel', 'santamonica']
 
 
