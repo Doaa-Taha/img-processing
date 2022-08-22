@@ -1,5 +1,6 @@
 #project name: image processing API.
-##tools used: nodeJS , express, prettier, eslint, sharp, jasmine and typescript.
+
+#tools used: nodeJS , express, prettier, eslint, sharp, jasmine and typescript.
 
 > to run the project 
   * npm i - to download the dependencies in the project
