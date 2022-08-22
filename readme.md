@@ -1,4 +1,4 @@
-##project name: image processing API
+#project name: image processing API.
 ##tools used: nodeJS , express, prettier, eslint, sharp, jasmine and typescript.
 
 > to run the project 
@@ -22,6 +22,6 @@
    * you can exchang the name with any of these names in the array 
      >['encenadaport', 'fjord', 'icelandwaterfall', 'palmtunnel', 'santamonica']
 
->##ImpNote: > I provided an empty folder called processed inside the images folder for the processed images to be added to and if we got a request for an image that was processed with the same width and height before , it won't be processed again and no duplication would occur.
+
      
 
